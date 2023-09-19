@@ -16,7 +16,12 @@ function index(req, res, next) {
 
 function replace(req, res, next) {
     const {n1, n2} = req.params;
-    res.send((Number(n1) / Number(n2)).toString());
+    if (n2 != 0){
+        res.send((Number(n1) / Number(n2)).toString());
+    }
+    else{
+        res.send("Cannot divide by zero bro");;
+    }
 };
 
 function update(req, res, next){
