@@ -5,12 +5,14 @@ Tarea | Tablas RESTful
 ## Getting Started/ Installing
 
 Clonar el repositorio y en la terminal ejecutar comando(s):
-`npm run dev`
-`npm start`
+
+* `npm run dev`
+* `npm start`
 
 ### Running (in postman)
+
 `GET`:
-![get](../assets/GET.png)
+![get](./assets/GET.png)
 
 ### Prerequisites
 
