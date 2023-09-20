@@ -10,7 +10,7 @@ Clonar el repositorio y en la terminal ejecutar comando(s):
 
 ### Running (in postman)
 `GET`:
-![get](./assets/GET.png)
+![get](../assets/GET.png)
 
     
 
