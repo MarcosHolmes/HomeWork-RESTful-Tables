@@ -8,7 +8,10 @@ Clonar el repositorio y en la terminal ejecutar comando(s):
 * `npm run dev` 
 * `npm start`
 
-### Running
+### Running (in postman)
+`GET`:
+![get](./assets/GET.png)
+
     
 
 ### Prerequisites
