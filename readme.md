@@ -4,12 +4,18 @@ Tarea | Tablas RESTful
 
 ## Getting Started/ Installing
 
-Clonar el repositorio, abrir una terminal en la raíz del repositorio y ejecutar comando(s):
+1. Clonar el repositorio
+  `git clone git@github.com:MarcosHolmes/HomeWork-RESTful-Tables.git`
 
-`npm run dev`| `npm start`
+3. abrir una terminal en la raíz del repositorio
+   
+4. ejecutar comando(s):
+   
+  `npm run dev`| `npm start`
 
   #### Running (in postman)
 
+  Para probar las diferentes operaciones:
   `http://localhost:3000/results/${n1}/${n2}`
   
   `GET (suma de n1 y n2)`:
