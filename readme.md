@@ -37,6 +37,7 @@ Clonar el repositorio y en la terminal ejecutar comando(s):
 
 * node js
 * npm
+* postman
 
 ### And coding style tests
 
@@ -57,7 +58,7 @@ No contribuyentes.
 
 v0.0.0
 
-## Authors
+## Author
 
 * Marcos Alfredo Aguilar Mata.
 
