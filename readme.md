@@ -10,24 +10,26 @@ Clonar el repositorio y en la terminal ejecutar comando(s):
 * `npm start`
 
   #### Running (in postman)
+
+  `http://localhost:3000/results/${n1}/${n2}
   
-  `GET`:
+  `GET (suma de n1 y n2)`:
   
   ![get](./assets/GET.png)
 
-  `POST`:
+  `POST (multipicación de n1 * n2)`:
   
   ![get](./assets/POST.png)
   
-  `PUT`:
+  `PUT (división de n1/n2)`:
   
   ![get](./assets/PUT.png)
   
-  `PATCH`:
+  `PATCH (potencia de n1 ^ n2)`:
   
   ![get](./assets/PATCH.png)
   
-  `DELETE`:
+  `DELETE (resta n1 - n2)`:
   
   ![get](./assets/DELETE.png)
 
