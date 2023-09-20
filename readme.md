@@ -11,7 +11,7 @@ Clonar el repositorio y en la terminal ejecutar comando(s):
 
   #### Running (in postman)
 
-  `http://localhost:3000/results/${n1}/${n2}
+  `http://localhost:3000/results/${n1}/${n2}`
   
   `GET (suma de n1 y n2)`:
   
