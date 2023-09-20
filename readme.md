@@ -9,10 +9,27 @@ Clonar el repositorio y en la terminal ejecutar comando(s):
 * `npm run dev`
 * `npm start`
 
-### Running (in postman)
+  #### Running (in postman)
+  
+  `GET`:
+  
+  ![get](./assets/GET.png)
 
-`GET`:
-![get](./assets/GET.png)
+  `POST`:
+  
+  ![get](./assets/POST.png)
+  
+  `PUT`:
+  
+  ![get](./assets/PUT.png)
+  
+  `PATCH`:
+  
+  ![get](./assets/PATCH.png)
+  
+  `DELETE`:
+  
+  ![get](./assets/DELETE.png)
 
 ### Prerequisites
 
